@@ -1,5 +1,5 @@
 # Library-Management-System---SQL-Case-Study
-This project focuses on designing and analyzing a library management system using SQL. 
+```This project focuses on designing and analyzing a library management system using SQL. 
 The system is built on a well-structured database schema consisting of six tables: Books, Members, Loans, Authors, BookAuthors, and Fines. 
 I created these tables, populated them with sample records, and executed various SQL queries to manage and analyze library operations effectively. 
 The case study demonstrates how SQL can be used to streamline processes such as tracking book loans, managing member activities, and calculating fines.
@@ -22,4 +22,4 @@ Optimization:
   Enhanced query performance through indexing and normalization of database structure.
 
 Insights: 
-  Delivered actionable insights on member engagement, overdue loan trends, and author popularity to improve decision-making in library management.
+  Delivered actionable insights on member engagement, overdue loan trends, and author popularity to improve decision-making in library management.```
